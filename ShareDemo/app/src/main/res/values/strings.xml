@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShareDemo</string>
+
+    <string name="sign_sharecontent_wb">日签</string>
+    <string name="sign_sharecontent_qzone">日签</string>
+    <string name="sign_sharecontent_sms">日签</string>
+    <string name="signin_reward">签到奖励</string>
+    <string name="signin_sharetitle">日签</string>
+    <string name="signin_today_first">签到成功，本月已签到&lt;font color="#ff0000"&gt;%1$d&lt;/font&gt;天</string>
+    <string name="signin_today_again">今日已签到，本月已签到&lt;font color="#ff0000"&gt;%1$d&lt;/font&gt;天</string>
+
+</resources>

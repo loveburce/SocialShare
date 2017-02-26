@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_gray">#555555</color>
+    <drawable name="popupwindow_background">#66000000</drawable>
+    <drawable name="bg_white">#ffffff</drawable>
+</resources>
